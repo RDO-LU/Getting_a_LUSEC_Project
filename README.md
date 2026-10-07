@@ -1,4 +1,4 @@
-# Getting_a_LUSEC_Project
+# Getting a LUSEC Project
 
 This is the repo that has the instructions and figures for acquiring a LUSEC project
 
