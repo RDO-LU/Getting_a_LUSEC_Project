@@ -72,10 +72,9 @@ A dialogue box will appear.
 
 Ange projektets namn, en webbadress till projektet (om du har en), en kort beskrivning (valfritt) samt start- och slutdatum. Klicka sedan på "Slutför".
 
-Name the project, provide a web address to the project (if you have one), a short description (optional), and a start and stop date. Then click on "Complete".
-
-
 Projektet kommer att läggas till på huvudsidan under kolumnen "Ej lagring”.
+
+Name the project, provide a web address to the project (if you have one), a short description (optional), and a start and stop date. Then click on "Complete".
 
 The project will be added to the main page under the "No storage column". 
 
@@ -164,18 +163,19 @@ You can now set the status and permissions of each person in the list. Top level
 
 I det här exemplet har Jonas tilldelats läs- och skrivbehörighet till **alla** mappar samt behörighet att importera och exportera data till LUSEC via Sharefile. Han har även utsetts till dataansvarig (Data Manager), vilket innebär att han har rätt att hantera behörigheter, uppdatera information om projektet eller studien samt begära utökat lagringsutrymme vid behov. **Att utses till Data Manager eller Bitr.forskningsprojektledare innebär inte automatiskt att man har läs- och skrivbehörighet i hela projektet.** Behörigheterna måste fortfarande ställas in på lämpligt sätt.
 
+Behörigheter kan även tilldelas på enbart mappnivå.
+
 In this example Jonas has been given read/write access to **all** folders, and has been given permission to import/export data into LUSEC using Sharefile. He has also been assigned as a Data Manager meaning he has the right to manage permissions, update project/study information and request increased storage volume if needed. **Being assigned as a Data Manager or Assistant PI does not mean you automatically have read7write access across the entire project**. Permissions still need to be set accordingly.
 
-Behörigheter kan även tilldelas på enbart mappnivå.
 Permissions can also be given just at the folder level.
 
 ![image](images/Step10d_FolderPerms.png)
 
 Behörigheter ställs in genom att markera rutan bredvid behörighetstypen (1). För mappen ”Test data1” har Jonas endast tilldelats läsbehörighet (2), men läs- och skrivbehörighet för ”Test data 2” (3).
 
-Permissions are set by adding a checkmark next to the permission type (1). For folder "Test data1" Jonas has been given read permission only (2), but read-write permission on "Test data 2" (3).
-
 När du är nöjd med hur behörigheterna har ställts in, klicka på ”Nästa steg”.
+
+Permissions are set by adding a checkmark next to the permission type (1). For folder "Test data1" Jonas has been given read permission only (2), but read-write permission on "Test data 2" (3).
 
 When you are satisfied with how permissions have been set, click on "Next step"
 
@@ -185,9 +185,9 @@ When you are satisfied with how permissions have been set, click on "Next step"
 
 Granska sammanfattningen av din beställning. Du kan gå tillbaka till varje enskilt steg om något behöver justeras. Klicka på ”Slutför begäran” och godkänn med Freya för att skicka in beställningen.
 
-Review the summary of what you are ordering. You can go back to each individual step if anything needs to be adjusted Click "Complete request" and authorise using Freya to submit the order.
-
 Din beställning kommer att behandlas, och du kommer att meddelas via e-post när din projektmapp är tillgänglig.
+
+Review the summary of what you are ordering. You can go back to each individual step if anything needs to be adjusted Click "Complete request" and authorise using Freya to submit the order.
 
 Your order will be processed, and you will be notified by email when your project folder is available.
 
