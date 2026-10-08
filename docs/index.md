@@ -1,9 +1,12 @@
+
+
 # Getting a LUSEC Desktop project.
 
+## Beställning av ett nytt LUSEC Desktop-projekt.
 
-*Observera! För att göra ändringar i ett befintligt LUSEC Desktop-projekt, vänligen kontakta servicecenter@lu.se.*
+*Observera! För att göra ändringar i ett befintligt LUSEC Desktop-projekt, vänligen kontakta <mailto:servicecenter@lu.se>.*
 
-Utgångspunkten för att beställa ett LUSEC Desktop-projekt är densamma som vid beställning av en forskningsdatamapp (https://www.staff.lu.se/get-started-research-data-folders). Skillnaden mellan de två uppstår när du väljer säkerhetsnivå för den data som ska lagras (https://www.staff.lu.se/research-and-education/research-support/support-research-process/research-data-management/protected-research-data).
+Utgångspunkten för att beställa ett LUSEC Desktop-projekt är densamma som vid beställning av en forskningsdatamapp (<https://www.staff.lu.se/get-started-research-data-folders>). Skillnaden mellan de två uppstår när du väljer säkerhetsnivå för den data som ska lagra (<https://www.staff.lu.se/research-and-education/research-support/support-research-process/research-data-management/protected-research-data>).
 
 
 Om du väljer nivå 1 eller 2 fortsätter processen som en beställning av en forskningsdatamapp. **Om du väljer nivå 3 eller 4** fortsätter processen med att skapa ett LUSEC Desktop-projekt.
@@ -12,18 +15,18 @@ Om du väljer nivå 1 eller 2 fortsätter processen som en beställning av en fo
 *Note! To make changes to an existing LUSEC Desktop project, please contact servicecenter@lu.se.*
 
 
-# Ordering a new LUSEC Desktop project.
+## Ordering a new LUSEC Desktop project.
 
-The starting point for ordering a LUSEC Desktop project is the same when ordering a Research Data Folder (https://www.staff.lu.se/get-started-research-data-folders).  The distinction between the two happens when you choose a security level for the data that you will be storing (https://www.staff.lu.se/research-and-education/research-support/support-research-process/research-data-management/protected-research-data).
+The starting point for ordering a LUSEC Desktop project is the same when ordering a Research Data Folder (<https://www.staff.lu.se/get-started-research-data-folders>).  The distinction between the two happens when you choose a security level for the data that you will be storing (<https://www.staff.lu.se/research-and-education/research-support/support-research-process/research-data-management/protected-research-data>).
 
 Choosing Level 1 or 2 will continue into the process for ordering a research data folder. **Choosing 3 or 4** will continue into the process for creating a LUSEC Desktop project.
 
 
-# För att beställa ett nytt LUSEC Desktop-projekt
+## För att beställa ett nytt LUSEC Desktop-projekt
 
 Följande instruktioner beskriver processen för att beställa ett nytt LUSEC Desktop-projekt.
 
-# To order a new LUSEC Desktop project
+## To order a new LUSEC Desktop project
 
 The following instructions will detail the process of ordering a new LUSEC Desktop project.
 
@@ -135,7 +138,7 @@ Add the required subfolders to the project by clicking on "Add folder" and name 
 
 Click "Next step" when done.
 
-### \.
+### 10\. Lägg till medlemmar och ange behörigheter
 ### 10\. Add members and set permissions
 
 ![image](images/Step10_Add_Members_Start.png)
