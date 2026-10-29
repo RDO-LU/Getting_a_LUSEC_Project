@@ -58,11 +58,11 @@ On the righthandside click the box under 'MODULE FOR ORDERING STORAGE SPACES'
 
 Om du har ett projekt registrerat i LUCRIS visas det i den vänstra kolumnen under ”Ej lagring”. **Om du vill lägga till en LUSEC Desktop till ett av dessa projekt kan du hoppa vidare till steg 5.**
 
-Om du inte har något LUCRIS-projekt, gå vidare till steg 3.
+Om du vill beställa yta till ett projekt som inte finns i Lucris, gå vidare till steg 3
 
 If you have a project registered in LUCRIS it will show under the left column under "No storage". **If you wish to add a LUSEC Dektop to one of these projects, you can skip ahead to step 5.**
 
-If you do not have a LUCRIS project, proceed to step 3.
+If you want to order storage for a project that does not exist in LUCRIS, move on to step 3
 
 
 ### 3\. Klicka på ”Lägg till projekt/studie” uppe till höger.
