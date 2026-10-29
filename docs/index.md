@@ -56,6 +56,10 @@ On the righthandside click the box under 'MODULE FOR ORDERING STORAGE SPACES'
 
 ![image](images/Step2_RPS.png)
 
+Om du har ett projekt registrerat i LUCRIS visas det i den vänstra kolumnen under ”Ej lagring”. **Om du vill lägga till en LUSEC Desktop till ett av dessa projekt kan du hoppa vidare till steg 5.**
+
+Om du inte har något LUCRIS-projekt, gå vidare till steg 3.
+
 If you have a project registered in LUCRIS it will show under the left column under "No storage". **If you wish to add a LUSEC Dektop to one of these projects, you can skip ahead to step 5.**
 
 If you do not have a LUCRIS project, proceed to step 3.
