@@ -65,6 +65,14 @@ If you have a project registered in LUCRIS it will show under the left column un
 If you want to order storage for a project that does not exist in LUCRIS, move on to step 3
 
 
+!!! danger inline end "Observera"
+    Endast en datalagringsvolym kan läggas till i varje projekt. Det går inte att lägga till både en lagringsvolym på nivå 2 **och** en på nivå 3 i ett och samma projekt.
+
+
+!!! danger inline end "Note"
+    Only one data storage volume can be added to each project. Both a level 2 **and** level 3 storage volume cannot be added to a single project.
+
+
 ### 3\. Klicka på ”Lägg till projekt/studie” uppe till höger.
 ### 3\. In the top-right, click "Add project/study"
 
